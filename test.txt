@@ -1,3 +1,8 @@
 123
 creat a new branch
+<<<<<<< HEAD
 create jxc
+=======
+create a new branch 1
+>>>>>>> feature1
+create fuck
